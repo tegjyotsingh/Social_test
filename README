@@ -1,0 +1,22 @@
+Playing with Social Networking API
+-----------------------------------
+-----------------------------------
+
+APIs to explore: Facebook, Twitter, Linkedin (add)
+
+Starting work with Facebook API
+-------------------------------
+Q) Extract all your friend's Bdays and store it in a file. If the friend doesnt have a public bday specified, enter it as NA-fb. Store the name, fblink, Bday in JSON files. 
+----------------------------------
+Problem: 
+starting from V2, fb does not allow us to get friends unless they are in the app themselves
+
+Starting with Linkedin API
+---------------------------
+Q) Can you extract your connections list?
+A) Yes but only the r_basicprofile
+
+
+
+
+
